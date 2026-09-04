@@ -1,4 +1,4 @@
-# FreightFox Transporter Assignment
+# Transporter Assignment On Lanes
 
 Java 17 Spring Boot backend that assigns every lane to exactly one transporter while respecting a maximum transporter count.
 
